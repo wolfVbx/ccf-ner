@@ -1,0 +1,13 @@
+labels = ['symptom',  # 症状
+       'drug_efficacy',  # 功效
+       'person_group',  # 人群
+       'syndrome',  # 综合症状
+       'drug_taste',  # 药品味道
+       'disease',  # 疾病
+       'drug_dosage',  # 剂量
+       'drug_ingredient',  # 成分
+       'food_group',  # 食物
+       'disease_group',  # 疾病分组
+       'drug',  # 药物
+       'food',  # 食物
+       'drug_group']  # 药物分组
